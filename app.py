@@ -105,3 +105,4 @@ with right:
 
 st.caption('The model was trained with RUL capped at 125, so it never predicts above 125. '
            'Status thresholds (30 and 60 cycles) are illustrative, not from NASA.')
+st.write('Scaler max values:', scaler.data_max_[:4])
