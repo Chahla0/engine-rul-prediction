@@ -69,3 +69,10 @@ Python, pandas, NumPy, scikit-learn, PyTorch, matplotlib
 - Extend to FD002 to FD004
 - Tune the window size, model size and number of epochs
 - Add a Streamlit dashboard for per-engine predictions
+## Live demo
+
+**[Open the interactive dashboard](https://engine-rul-prediction-bwbqb8tjzxjdbdmtocd2ff.streamlit.app/)**
+
+Pick any of the 100 test engines, move the slider through its life, and watch the predicted remaining useful life and the sensor readings update.
+
+![Dashboard](dashboard.png)
