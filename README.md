@@ -75,4 +75,4 @@ Python, pandas, NumPy, scikit-learn, PyTorch, matplotlib
 
 Pick any of the 100 test engines, move the slider through its life, and watch the predicted remaining useful life and the sensor readings update.
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot (105).png)
