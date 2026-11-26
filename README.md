@@ -74,5 +74,4 @@ Python, pandas, NumPy, scikit-learn, PyTorch, matplotlib
 **[Open the interactive dashboard](https://engine-rul-prediction-bwbqb8tjzxjdbdmtocd2ff.streamlit.app/)**
 
 Pick any of the 100 test engines, move the slider through its life, and watch the predicted remaining useful life and the sensor readings update.
-
-![Dashboard](Screenshot (105).png)
+![Dashboard](dashboard.png)
